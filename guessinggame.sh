@@ -14,7 +14,11 @@ if [[ var1 -eq var2 ]]
 then
 	echo "Congratulations you are right"
 	break
-else
-echo "you are wrong try again"
+elif [[ var2 -lt var1 ]]
+then
+	echo "too less"
+elif [[ var2 -gt var1 ]]
+then
+	echo "too much"
 fi
 done
