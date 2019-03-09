@@ -10,7 +10,10 @@ while [[ true ]]
 do
 echo "enter your guess"
 read var2
-if [[ var1 -eq var2 ]]
+if [[ !($var2 =~ [0-9]+) ]]
+then echo "enter numeric input"
+continue
+elif [[ var1 -eq var2 ]]
 then
 	echo "Congratulations you are right"
 	break
