@@ -1,8 +1,5 @@
-# TITLE: Guessing Game
+# TITLE: Java Programs
 
 
-*No of lines of code*: 
-27
-
-
-2019-03-09 15:33:09
+Random simple java programs on various topics.
+Built on IDE bluej.
