@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AnyBase
+comment1.params=nu\ ba
+comment1.target=AnyBase(long,\ int)
+comment2.params=
+comment2.target=boolean\ isCompatible()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=AnyBase\ toBase10()
+comment5.params=baseX
+comment5.target=AnyBase\ toBaseX(int)
+comment6.params=baseX
+comment6.target=void\ showConversion(int)
+comment7.params=
+comment7.target=void\ main()
+numComments=8
