@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ phi(int)
+comment1.params=n
+comment1.target=int\ divisors(int)
+comment2.params=
+comment2.target=void\ main()
+comment3.params=a\ b
+comment3.target=int\ gcd(int,\ int)
+numComments=4

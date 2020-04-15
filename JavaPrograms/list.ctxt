@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=d\ l
+comment0.target=list(int,\ list)
+comment1.params=
+comment1.target=list()
+comment2.params=n
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=n
+comment4.target=void\ delete(int)
+comment5.params=loc
+comment5.target=void\ split(int)
+comment6.params=
+comment6.target=void\ reverse()
+comment7.params=n
+comment7.target=void\ search(int)
+comment8.params=n
+comment8.target=void\ main(int)
+numComments=9

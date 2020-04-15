@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=magic()
+comment1.params=nx
+comment1.target=magic(int)
+comment2.params=
+comment2.target=void\ input_numbers()
+comment3.params=
+comment3.target=void\ find_print_magic()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

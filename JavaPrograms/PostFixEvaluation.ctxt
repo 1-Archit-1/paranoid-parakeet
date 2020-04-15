@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=PostFixEvaluation(int)
+comment1.params=n
+comment1.target=void\ push(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ pop()
+comment3.params=ch
+comment3.target=boolean\ isOperator1(java.lang.String)
+comment4.params=ch
+comment4.target=boolean\ isOperator(java.lang.String)
+comment5.params=s
+comment5.target=java.lang.String\ evaluate(java.lang.String)
+comment6.params=op1\ op\ op2
+comment6.target=java.lang.String\ evaluate(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=void\ main()
+numComments=8

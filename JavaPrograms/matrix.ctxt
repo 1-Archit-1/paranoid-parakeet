@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ matrix
+comment1.params=
+comment1.target=void\ main()
+comment2.target=m
+comment3.target=in
+comment4.target=a
+comment5.params=g\ f
+comment5.target=matrix(int,int)
+comment6.params=
+comment6.target=void\ inp()
+comment7.params=b\ c\ d
+comment7.target=void\ swap(int,int,int)
+comment8.target=n
+numComments=9
