@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=N\ bits
+comment0.target=CA(int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ step()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

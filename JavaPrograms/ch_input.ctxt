@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ ch_input
+comment1.params=
+comment1.target=void\ main()
+comment2.target=in
+comment3.target=reader
+comment4.params=
+comment4.target=int\ accept()
+comment5.target=ch
+comment6.params=n
+comment6.target=void\ method(int[])
+comment7.target=cc
+numComments=8
