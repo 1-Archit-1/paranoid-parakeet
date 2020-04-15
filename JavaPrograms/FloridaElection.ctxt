@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ a\ i
+comment0.target=void\ addVote(int,\ int[],\ int)
+comment1.params=a\ i
+comment1.target=void\ perCent(int[],\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

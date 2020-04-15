@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=CoordinateSystem(int,\ int)
+comment1.params=xa\ ya
+comment1.target=void\ initial(int,\ int)
+comment2.params=xa\ ya\ xb\ yb
+comment2.target=void\ initial(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ reflection()
+comment4.params=
+comment4.target=void\ equation()
+comment5.params=
+comment5.target=void\ Section_form()
+comment6.params=
+comment6.target=void\ distance_Formula()
+comment7.params=
+comment7.target=void\ switch_menu()
+numComments=8

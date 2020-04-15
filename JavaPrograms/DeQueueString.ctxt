@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nx
+comment0.target=DeQueueString(int)
+comment1.params=s
+comment1.target=void\ pushAtRear(java.lang.String)
+comment2.params=s
+comment2.target=void\ pushAtFront(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ popFront()
+comment4.params=
+comment4.target=java.lang.String\ popRear()
+comment5.params=
+comment5.target=void\ DequeueDisplay()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Factorial_Rangeproof
+comment1.params=s\ n
+comment1.target=java.lang.String\ multiply(java.lang.String,\ int)
+comment1.text=\ The\ following\ method\ is\ to\ demonstrate\ the\ multiplication\ of\ a\ \r\nString\ containing\ numbers\ with\ an\ integer.
+comment2.params=
+comment2.target=void\ fact()
+numComments=3

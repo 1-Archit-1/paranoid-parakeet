@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ noOfDigits(int)
+comment1.params=d\ y
+comment1.target=DATE(int,\ int)
+comment2.params=y
+comment2.target=boolean\ leap(int)
+comment3.target=void\ main()
+comment4.params=N\ d\ m\ y
+comment4.target=void\ out_date(int,\ int,\ int,\ int)
+numComments=5

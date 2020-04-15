@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ DoublyLinkedList()
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=dd
+comment2.target=void\ insertFirst(long)
+comment3.params=dd
+comment3.target=void\ insertLast(long)
+comment4.params=
+comment4.target=Link\ deleteFirst()
+comment5.params=
+comment5.target=Link\ deleteLast()
+comment6.params=key\ dd
+comment6.target=boolean\ insertAfter(long,\ long)
+comment7.params=key
+comment7.target=Link\ deleteKey(long)
+comment8.params=
+comment8.target=void\ displayForward()
+comment9.params=
+comment9.target=void\ displayBackward()
+numComments=11
