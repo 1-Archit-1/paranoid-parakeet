@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Salary_Dat
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ inputX()
+comment3.params=
+comment3.target=void\ append()
+comment4.params=bs
+comment4.target=double\ HRA(double)
+comment5.params=bs
+comment5.target=double\ DA(double)
+comment6.params=bs
+comment6.target=double\ calcSal(double)
+comment7.params=bs\ c
+comment7.target=double\ tSal(double,\ long)
+comment8.params=
+comment8.target=void\ displaySal()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
